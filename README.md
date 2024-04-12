@@ -1,4 +1,5 @@
-#name
+Name
 orii-project
-#Overview
+
+Overview
 スマホのタッチを二人のユーザが交互に行い、どっちがタッチしたか、タッチタッチ位置、IMUセンサの各センサの値をCSVファイルに入力するアプリケーション
